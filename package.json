@@ -1,0 +1,24 @@
+{
+  "name": "cursonode2",
+  "version": "0.0.1",
+  "description": "Es una tabla de multiplicar. Trabaja con archivos de texto.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no salida specified\\\" && exit 1",
+    "base3": "node app.js --base=3"
+  },
+  "keywords": [],
+  "author": "José Manuel",
+  "license": "ISC",
+  "directories": {
+    "test": "salida"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "npm": "^7.14.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
