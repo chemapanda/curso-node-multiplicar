@@ -1,6 +1,6 @@
 # NOTAS
 
-Programa en escrito en Node.js que genera una tabla de multiplicar.
+Programa escrito en Node.js que genera una tabla de multiplicar.
 
 ```
 Options:
